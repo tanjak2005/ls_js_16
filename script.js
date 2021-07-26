@@ -1,16 +1,16 @@
-//1
-const dataTypes = [
-    true,
-    's',
-    0,
-    null,
-    undefined,
-    {},
-    [],
-    0n,
-    Symbol(),
-    () => {},
-   ]
+// //1
+// const dataTypes = [
+//     true,
+//     's',
+//     0,
+//     null,
+//     undefined,
+//     {},
+//     [],
+//     0n,
+//     Symbol(),
+//     () => {},
+//    ]
 
 // const map = new Map([
 //        [true, {
